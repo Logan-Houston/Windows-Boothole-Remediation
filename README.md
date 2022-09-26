@@ -1,5 +1,5 @@
 This fix action is for ACAS plugins 139239. This fixes the secure boot vulnerabilty.
-Solution includes the follwoing files/folders and there use, Please ensure all are uploaded to a network share that admins have rights to access:
+Solution includes the following files/folders and their use, Please ensure all are uploaded to a network share that admins have rights to access:
 
 RemoteGRUBScript.ps1 -- Main Kicker script this will be executed in Powershell ISE launched as adminsitrator.
 
